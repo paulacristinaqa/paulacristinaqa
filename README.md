@@ -46,11 +46,10 @@
 
 ---
 
-## 🐍 Snake Game
+## 🐍 Snake Game das Minhas Contribuições
 
-![snake gif](https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-snake.svg)
 
----
 
 ## 📫 Conecte-se comigo
 
