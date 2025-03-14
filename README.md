@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paula Cristina! 👋</h1>
 
 <p align="center">
-  🧠 QA | Engenheira de Software | Padawan Backend Developer| APIs | Mensageria | SQL | Elasticsearch <br>
+  🧠 Engenheira de Software | 👩‍💻 Estudando Desenvolvimento Backend 💻 | QA Backend 🐞⚠️ -  APIs | Mensageria | SQL | Elasticsearch <br>
   💡 Curiosa por novas tecnologias e boas práticas <br>
   🌎 Localizada em Viana do Castelo - Portugal | Disponível para trabalho remoto e freelancers <br>
   📷 Amo fotografia <br>
@@ -30,6 +30,8 @@
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 ---
@@ -37,8 +39,8 @@
 ## 📊 Minhas Estatísticas & Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=cobalt" alt="Top Langs" />
 </p>
 
 ---
