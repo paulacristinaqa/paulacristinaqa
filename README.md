@@ -45,11 +45,6 @@
 
 ---
 
-## 🐍 Snake Game
-
-<p align="center">
-  <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" />
-</p>
 
 ---
 
