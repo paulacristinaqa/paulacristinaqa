@@ -2,8 +2,8 @@ name: Snake Game 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite (pode ajustar)
-  workflow_dispatch: # Permite rodar manualmente também
+    - cron: "0 0 * * *" # Roda diariamente à meia-noite UTC
+  workflow_dispatch: # Permite executar manualmente
 
 jobs:
   generate:
@@ -14,12 +14,12 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Gerar o Snake Game SVG
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          svg_out_path: dist/github-snake.svg  # ✅ Correto
 
-      - name: Commit e Push do Snake
+      - name: Commit e Push do Snake Game
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
