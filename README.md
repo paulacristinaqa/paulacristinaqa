@@ -56,5 +56,5 @@
 ## 🏆 Meus Troféus do GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=radical&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" />
 </p>
