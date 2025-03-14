@@ -1,57 +1,67 @@
 <h1 align="center">Olá, eu sou Paula Cristina! 👋</h1>
 
 <p align="center">
-  🧠 QA | Engenheira de Software | Backend Developer | APIs | Mensageria | SQL | Elasticsearch <br>
+  🧠 QA | Engenheira de Software | Padawan Backend Developer| APIs | Mensageria | SQL | Elasticsearch <br>
   💡 Curiosa por novas tecnologias e boas práticas <br>
-  🌎 Localizada em Viana do Castelo- PT :brazil: :portugal: | Disponível para trabalho remoto e freelancers <br>
+  🌎 Localizada em Viana do Castelo - Portugal | Disponível para trabalho remoto e freelancers <br>
   📷 Amo fotografia <br>
-  🐶 Cães 🐾  <br> 
-  🔭  Astronomia e  🚀Rocket Science <br>
-  
-  
+  🐶 Cães 🐾 <br>
+  🔭 Astronomia e 🚀 Rocket Science <br>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Tecnologias & Ferramentas
 
-
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-CC0000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Apidog](https://img.shields.io/badge/Apidog-7D3CF8?style=for-the-badge&logoColor=white)
-![TestGPT](https://img.shields.io/badge/TestGPT-0088CC?style=for-the-badge&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-
----
-
-## ⚙️ GitHub Stats
-
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical&hide=stars,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bruno-333333?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apidog-3C78D8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Atividade recente
+## 📊 Minhas Estatísticas & Linguagens mais usadas
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=paulacristinaqa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
 ---
 
-## 🐍 Snake Game das Minhas Contribuições
+## 🐍 Snake Game
 
-![Snake animation](https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-snake.svg)
+<p align="center">
+  <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" alt="Snake Game" />
+</p>
 
+---
 
-## 📫 Conecte-se comigo
+## 🏆 Meus Troféus do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+![Python](https://img.shields.io/badge/Python-0%25-purple?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-0%25-yellow?style=for-the-badge)
+![Go](https://img.shields.io/badge/Go-0%25-lightblue?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-0%25-lightbrown?style=for-the-badge)
+![Robot](https://img.shields.io/badge/Robot_Framework-0%25-darkgreen?style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-0%25-lightgreen?style=for-the-badge)
