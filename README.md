@@ -39,8 +39,8 @@
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🐍 Snake Game
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-snake.svg" />
+  <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" />
 </p>
 
 ---
