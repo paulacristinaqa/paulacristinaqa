@@ -3,7 +3,11 @@
 <p align="center">
   🧠 Engenheira de Software | 👩‍💻 Estudando Desenvolvimento Backend 💻 | QA Backend 🐞⚠️ -  APIs | Mensageria | SQL | Elasticsearch <br>
   💡 Curiosa por novas tecnologias e boas práticas <br>
+<<<<<<< Updated upstream
   🌎 Localizada em Viana do Castelo - Portugal | Disponível para trabalho remoto e freelancers <br>
+=======
+  🌎 Localizada em Viana do Castelo - PT 🇧🇷 🇵🇹 | Disponível para trabalho remoto e freelancers <br>
+>>>>>>> Stashed changes
   📷 Amo fotografia <br>
   🐶 Cães 🐾 <br>
   🔭 Astronomia e 🚀 Rocket Science <br>
@@ -36,11 +40,19 @@
 
 ---
 
+<<<<<<< Updated upstream
 ## 📊 Minhas Estatísticas & Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=cobalt" alt="Top Langs" />
+=======
+## 📊 Minhas Estatísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical" />
+>>>>>>> Stashed changes
 </p>
 
 ---
@@ -48,7 +60,11 @@
 ## 🐍 Snake Game
 
 <p align="center">
+<<<<<<< Updated upstream
   <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" alt="Snake Game" />
+=======
+  <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" />
+>>>>>>> Stashed changes
 </p>
 
 ---
@@ -56,6 +72,7 @@
 ## 🏆 Meus Troféus do GitHub
 
 <p align="center">
+<<<<<<< Updated upstream
   <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
@@ -67,3 +84,7 @@
 ![Java](https://img.shields.io/badge/Java-0%25-lightbrown?style=for-the-badge)
 ![Robot](https://img.shields.io/badge/Robot_Framework-0%25-darkgreen?style=for-the-badge)
 ![Cypress](https://img.shields.io/badge/Cypress-0%25-lightgreen?style=for-the-badge)
+=======
+  <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" />
+</p>
+>>>>>>> Stashed changes

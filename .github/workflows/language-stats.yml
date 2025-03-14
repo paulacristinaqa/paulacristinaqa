@@ -1,0 +1,25 @@
+name: Atualizar Estatísticas de Linguagens 🚀
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Calcular estatísticas de linguagens
+        uses: jstrieb/github-stats@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commitar estatísticas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions@github.com"
+          git add language-stats.json
+          git commit -m "Atualização automática de stats de linguagens"
+          git push
