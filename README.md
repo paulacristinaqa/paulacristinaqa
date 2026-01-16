@@ -1,18 +1,18 @@
 <h1 align="center">Olá, eu sou Paula Cristina! 👋</h1>
 
 <p align="center">
-  🧠 QA | Engenheira de Software | Backend Developer | APIs | Mensageria | SQL | Elasticsearch <br>
+  🧠 Sênior QA Engineer | Software Engineer| Backend Testing | APIs testing| Performance Tsting |<br>
   💡 Curiosa por novas tecnologias e boas práticas <br>
   🌎 Localizada em Viana do Castelo - PT 🇧🇷 🇵🇹 | Disponível para trabalho remoto e freelancers <br>
-  📷 Amo fotografia <br>
-  🐶 Cães 🐾 <br>
+  📷 Amo fotografia,<br>
+  🐶 Cães, 🐾 <br>
   🔭 Astronomia e 🚀 Rocket Science <br>
 </p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-
+## 🚀 Tecnologias & Ferramentas- PERFIL EM ATUALIZAÇÃO 
+<!-- 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -58,3 +58,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" />
 </p>
+
+-->
