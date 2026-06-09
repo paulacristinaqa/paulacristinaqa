@@ -1,17 +1,33 @@
-<h1 align="center">Olá, eu sou Paula Cristina! 👋</h1>
+# Hi, I'm Paula Cristina 👋
 
-<p align="center">
-  🧠 Sênior QA Engineer | Software Engineer| Backend Testing | APIs testing| Performance Tsting |<br>
-  💡 Curiosa por novas tecnologias e boas práticas <br>
-  🌎 Localizada em Viana do Castelo - PT 🇧🇷 🇵🇹 | Disponível para trabalho remoto e freelancers <br>
-  📷 Amo fotografia,<br>
-  🐶 Cães, 🐾 <br>
-  🔭 Astronomia e 🚀 Rocket Science <br>
-</p>
+Senior QA Engineer focused on API testing, backend quality, test automation, CI/CD, data validation, and AI-assisted testing.
 
----
+## Main Areas
 
-## 🚀 Tecnologias & Ferramentas- PERFIL EM ATUALIZAÇÃO 
+- API Testing
+- Backend Testing
+- Test Automation
+- Robot Framework
+- Playwright
+- SQL Validation
+- Performance Testing
+- CI/CD Quality Gates
+- AI-Assisted QA
+- Risk-Based Testing
+
+## Featured QA Portfolio Projects
+
+1. API Automation Portfolio
+2. Backend Testing with SQL
+3. Playwright E2E Automation
+4. Performance Testing with K6/JMeter
+5. Contract Testing
+6. AI-Assisted QA Lab
+
+## My QA Approach
+
+I believe Quality Assurance is not only about finding bugs. It is about understanding risks, validating business rules, improving testability, supporting delivery confidence, and helping teams build better software.
+
 <!-- 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
