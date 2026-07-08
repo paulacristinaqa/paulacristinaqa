@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Paula Cristina
+# 👋 Hi, I'm Paula Cristina Ramos
 
 **Senior QA Engineer** · API Testing · Backend Quality · Test Automation · CI/CD · AI-Assisted Testing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulacramos)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulac.schunck@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/paulacristinaqa?style=social)](https://github.com/paulacristinaqa)
 
 ---
@@ -37,13 +37,13 @@
 | [**Playwright E2E Framework**](https://github.com/paulacristinaqa/playwright-e2e-quality-portfolio) | Maintainable E2E automation focusing on critical user journeys, fixtures, and failure diagnosis. | Playwright, TypeScript |
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical)
-
+ -->
 ---
 
 ## 📂 Portfolio Repositories
@@ -59,5 +59,5 @@
 
 I'm always open to discussing QA strategy, automation architecture, or new opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulacramos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulac.schunck@gmail.com)
