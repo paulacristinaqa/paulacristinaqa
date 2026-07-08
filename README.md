@@ -1,78 +1,63 @@
-# Hi, I'm Paula Cristina 👋
+# 👋 Hi, I'm Paula Cristina
 
-Senior QA Engineer focused on API testing, backend quality, test automation, CI/CD, data validation, and AI-assisted testing.
+**Senior QA Engineer** · API Testing · Backend Quality · Test Automation · CI/CD · AI-Assisted Testing
 
-## Main Areas
-
-- API Testing
-- Backend Testing
-- Test Automation
-- Robot Framework
-- Playwright
-- SQL Validation
-- Performance Testing
-- CI/CD Quality Gates
-- AI-Assisted QA
-- Risk-Based Testing
-
-## Featured QA Portfolio Projects
-
-1. API Automation Portfolio
-2. Backend Testing with SQL
-3. Playwright E2E Automation
-4. Performance Testing with K6/JMeter
-5. Contract Testing
-6. AI-Assisted QA Lab
-
-## My QA Approach
-
-I believe Quality Assurance is not only about finding bugs. It is about understanding risks, validating business rules, improving testability, supporting delivery confidence, and helping teams build better software.
-
-<!-- 
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-45ba63?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bruno-333333?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apidog-3C78D8?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
+[![GitHub followers](https://img.shields.io/github/followers/paulacristinaqa?style=social)](https://github.com/paulacristinaqa)
 
 ---
 
-## 📊 Minhas Estatísticas
+## 🧪 My QA Approach
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical" />
-</p>
-
----
-## 🐍 Snake Game
-
-<p align="center">
-  <img src="https://github.com/paulacristinaqa/paulacristinaqa/blob/output/github-snake.svg" />
-</p>
-
+> Quality Assurance is **not only about finding bugs**. It is about **understanding risks**, **validating business rules**, **improving testability**, **supporting delivery confidence**, and helping teams build better software.
 
 ---
 
-## 🏆 Meus Troféus do GitHub
+## 🛠️ Technical Stack
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=paulacristinaqa&theme=radical&no-bg=true&no-frame=true" />
-</p>
+| Area | Tools & Technologies |
+| :--- | :--- |
+| **API Testing** | REST Assured, Supertest, Chai, Postman, Swagger |
+| **UI Automation** | Playwright, Selenium, Robot Framework |
+| **Backend Validation** | SQL (PostgreSQL, MySQL), Data Consistency, ETL Testing |
+| **Performance** | K6, JMeter, Lighthouse CI |
+| **CI/CD & Quality Gates** | GitHub Actions, Jenkins, Codecov, SonarQube |
+| **AI-Assisted QA** | Prompt Engineering, Test Data Generation, Defect Prediction |
+| **Languages** | JavaScript, Python, TypeScript |
 
--->
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| [**API Banking Test Suite**](https://github.com/paulacristinaqa/banco-api-test) | End-to-end API testing for a banking domain, covering authentication, transfers, and balance validation. | JavaScript, Supertest, Chai, GitHub Actions |
+| [**Veterinary Clinic Management**](https://github.com/paulacristinaqa/gestao_veterinaria) | Full-stack web application for vet clinic scheduling, patient records, and medical history. | [Adicionar stack] |
+| [**Playwright E2E Framework**](https://github.com/paulacristinaqa/playwright-e2e-quality-portfolio) | Maintainable E2E automation focusing on critical user journeys, fixtures, and failure diagnosis. | Playwright, TypeScript |
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulacristinaqa&show_icons=true&theme=radical&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulacristinaqa&layout=compact&theme=radical)
+
+---
+
+## 📂 Portfolio Repositories
+
+- [**API Automation Portfolio**](https://github.com/paulacristinaqa/qa-api-automation-portfolio) — API testing with authentication, business rules, and CI/CD.
+- [**Backend Testing with SQL**](https://github.com/paulacristinaqa/backend-testing-sql-portfolio) — Data validation and consistency between API and database.
+- [**Performance Testing with K6/JMeter**](https://github.com/paulacristinaqa/performance-testing-k6-jmeter) — Risk-based performance analysis and load testing.
+- [**Contract Testing**](https://github.com/paulacristinaqa/contract-testing-api-portfolio) — Consumer-driven contract testing to catch integration risks early.
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to discussing QA strategy, automation architecture, or new opportunities.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL)
